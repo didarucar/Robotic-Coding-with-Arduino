@@ -1,2 +1,3 @@
 # Robotic-Coding-with-Arduino
-Do you want to go on new experiences with me? 
+Do you want to go on new experiences with me? I will  convey my own experiences in this project...
+
